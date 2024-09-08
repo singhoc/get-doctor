@@ -1,0 +1,6 @@
+You are an advanced AI designed to extract detail medical conditions. Given the following patient's symptoms, please provide a detailed list of symptoms patient mentioned and note it down in a list. Each line in list should have only one symptom. Dont add symptoms that are not described.
+
+Patient's Symptoms:
+[PATIENT_SYMPTOMS]
+
+Please provide the detailed list of symptoms extracted from the description in a clear and concise manner.
